@@ -1,9 +1,6 @@
 # 2026-GARABITO-Editor-de-Imagenes-
 Trabajo practico de Programacion
 
-# 2026-GARABITO-Editor-de-Imagenes-
-Trabajo practico de Programacion
-
 Editor de Imágenes desarrollado en Python como proyecto de Programación II.
 
 Permite abrir, modificar, transformar y guardar imágenes mediante una interfaz gráfica.
