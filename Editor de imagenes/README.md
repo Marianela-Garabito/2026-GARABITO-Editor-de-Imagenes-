@@ -1,23 +1,23 @@
-Editor de Im醙enes desarrollado en Python como proyecto de Programaci髇 II.
+Editor de Im谩genes desarrollado en Python como proyecto de Programaci贸n II.
 
-Permite abrir, modificar, transformar y guardar im醙enes mediante una interfaz gr醘ica.
+Permite abrir, modificar, transformar y guardar im谩genes mediante una interfaz gr谩fica.
 
 |Funciones principales
-- Abrir y guardar im醙enes.
-- Girar y voltear im醙enes.
-- Convertir im醙enes a escala de grises y blanco y negro.
+- Abrir y guardar im谩genes.
+- Girar y voltear im谩genes.
+- Convertir im谩genes a escala de grises y blanco y negro.
 - Aplicar filtros.
-- Modificar brillo, contraste y saturaci髇.
-- Recortar im醙enes.
+- Modificar brillo, contraste y saturaci贸n.
+- Recortar im谩genes.
 - Deshacer y rehacer modificaciones.
-- Enviar im醙enes por correo electr髇ico.
+- Enviar im谩genes por correo electr贸nico.
 - Vista previa antes de confirmar los cambios.
 
-|Tecnolog韆s utilizadas
+|Tecnolog铆as utilizadas
 - Python
 - Tkinter
 - Pillow
-- SMTP para el env韔 de correos
+- SMTP para el env铆o de correos
 
 |Descargar el proyecto
 Descargar o copiar los archivos del proyecto en una carpeta de la computadora.
@@ -36,7 +36,7 @@ La carpeta debe contener:
 
    python -m pip install -r requirements.txt
 
-5. Esperar a que finalice la instalaci髇.
+5. Esperar a que finalice la instalaci贸n.
 
 Este comando instala las bibliotecas externas necesarias para ejecutar el programa.
 
@@ -45,21 +45,29 @@ Desde la misma ventana de CMD, escribir:
 
    python editor_imagenes.py
 
-Presionar Enter para iniciar el editor de im醙enes.
+Presionar Enter para iniciar el editor de im谩genes.
 
-|Configurar el env韔 de correos
+|Configurar el env铆o de correos
 
-Para utilizar la funci髇 de env韔 por Gmail:
+Para utilizar la funci贸n de env铆o por Gmail:
 
 1. Tener una cuenta de Google.
-2. Activar la verificaci髇 en dos pasos.
-3. Crear una contrase馻 de aplicaci髇 desde la configuraci髇 de seguridad de Google, si la cuenta cumple los requisitos.
-4. Abrir la funci髇 "Enviar por correo" del editor.
-5. Introducir la direcci髇 de Gmail, la contrase馻 de aplicaci髇 y el correo del destinatario.
+2. Activar la verificaci贸n en dos pasos.
+3. Crear una contrase帽a de aplicaci贸n desde la configuraci贸n de seguridad de Google, si la cuenta cumple los requisitos.
+4. Abrir la funci贸n "Enviar por correo" del editor.
+5. Introducir la direcci贸n de Gmail, la contrase帽a de aplicaci贸n y el correo del destinatario.
 
-La contrase馻 de aplicaci髇 debe ser propia de cada usuario. No se debe compartir con otras personas.
+La contrase帽a de aplicaci贸n debe ser propia de cada usuario. No se debe compartir con otras personas.
 
-|Soluci髇 de problemas
-- Si aparece un error relacionado con PIL, ejecutar nuevamente la instalaci髇 de las dependencias.
-- Si no se pueden enviar correos, comprobar que la conexi髇 a Internet, los datos de Gmail y la contrase馻 de aplicaci髇 sean correctos.
-- Si Windows no reproduce sonidos, comprobar el volumen y la configuraci髇 de audio.
+|Soluci贸n de problemas
+- Si aparece un error relacionado con PIL, ejecutar nuevamente la instalaci贸n de las dependencias.
+- Si no se pueden enviar correos, comprobar que la conexi贸n a Internet, los datos de Gmail y la contrase帽a de aplicaci贸n sean correctos.
+- Si Windows no reproduce sonidos, comprobar el volumen y la configuraci贸n de audio.
+
+<img width="915" height="651" alt="image" src="https://github.com/user-attachments/assets/9b91e849-587c-4e83-828d-c358157aa584" />
+
+<img width="647" height="420" alt="image" src="https://github.com/user-attachments/assets/e6016df1-acbe-4ef8-8e91-ade7466d0fcc" />
+
+<img width="424" height="570" alt="image" src="https://github.com/user-attachments/assets/648c8c49-699a-49d7-a733-c3a8ac02077e" />
+
+
